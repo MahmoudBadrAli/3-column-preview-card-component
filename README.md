@@ -3,7 +3,7 @@ Frontend Mentor - [3-column preview card component](https://www.frontendmentor.i
 
 ### Links
 
-- Live Site URL: [Here]()
+- Live Site URL: [Here](https://mahmoudbadrali.github.io/3-column-preview-card-component/)
 
 ## Author
 
